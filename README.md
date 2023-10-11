@@ -1,6 +1,6 @@
-# Huntress CTF 2023 Participant
+# Huntress CTF 2023 Writeups
 
-Welcome to my Huntress CTF 2023 participant README! 🎉
+Welcome to my Huntress CTF 2023 writeups! 🎉
 
 I'm excited to be a part of the Huntress CTF 2023, celebrating Cybersecurity Awareness Month and diving into the world of Capture The Flag challenges. I'm ready to take on these daily challenges, learn new skills, and document my journey right here.
 
