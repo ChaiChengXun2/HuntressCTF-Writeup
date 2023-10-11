@@ -1,4 +1,4 @@
-# Huntress CTF 2023 Participant - [Your Name]
+# Huntress CTF 2023 Participant
 
 Welcome to my Huntress CTF 2023 participant README! 🎉
 
