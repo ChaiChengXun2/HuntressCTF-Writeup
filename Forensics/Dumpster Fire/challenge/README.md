@@ -1,6 +1,6 @@
 ## Challenge: Dumpster Fire
 
-- **Title:** Traffic
+- **Title:** Dumpster Fire
 - **Points:** 50
 - **Category:** Forensics
 - **Author:** @JohnHammond
