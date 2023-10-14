@@ -3,7 +3,7 @@
 - **Title:** Where Am I
 - **Points:** 50
 - **Category:** OSINT
-- **Author:** @JohnHammond
+- **Author:** @prolasher
 
 ### Description
 
