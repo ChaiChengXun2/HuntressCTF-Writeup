@@ -32,10 +32,9 @@ To solve this challenge, follow these steps:
 5. **Reverse Engineer the VBA Script:**
    - Once you've extracted the VBA script, thoroughly examine it.
    - Reverse engineer the code to understand its functionality.
-   - While going through the script, look for any encoded or hidden data.
 
 6. **Decode the Flag:**
-   - During your analysis, you will likely discover a base64 encoded string within the VBA script.
+   - After successfully reverse engineering the code, you will discover a base64 encoded string.
    - Decode this string using a base64 decoder to reveal the flag.
 
 **Challenge Solved**
