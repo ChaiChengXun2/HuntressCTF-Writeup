@@ -18,7 +18,7 @@ To successfully complete the "Backdoored Splunk" forensics challenge, follow the
 ![Website](website.png)
 
 2. **Search Downloaded Challenge Folder:**
-   - I thought it was an error, but it was mentioned by Hunter CTF that this behaviour is intended. We have to find which headers are required for this to work
+   - I thought it was an error, but it was mentioned by Huntress CTF that this behaviour is intended. We have to find which headers are required for this to work
    - I immediately searched the downloaded challenge folder for headers
 ![Headers](<requires header.png>)
    - This shows that it requires an authorisation header
