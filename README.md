@@ -18,4 +18,5 @@ As I progress through the Huntress CTF 2023, I'll be documenting my solutions an
 
 ## Writeups
 
-Thank you John Hammond and Huntress Labs for hosting such an amazing event.
+I want to give a huge shoutout to Huntress Labs, John Hammond, and everyone who made the Huntress CTF 2023 an unforgettable experience of learning and bonding. 🙌
+
