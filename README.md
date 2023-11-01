@@ -16,7 +16,7 @@ As a passionate cybersecurity enthusiast, I approach the Huntress CTF with the f
 
 As I progress through the Huntress CTF 2023, I'll be documenting my solutions and insights for the challenges I tackle. You can find my writeups in the respective directories, organized by category. Feel free to explore them, learn from them, and provide feedback.
 
-## Writeups
+## Thank You
 
 I want to give a huge shoutout to Huntress Labs, John Hammond, and everyone who made the Huntress CTF 2023 an unforgettable experience of learning and bonding. 🙌
 
